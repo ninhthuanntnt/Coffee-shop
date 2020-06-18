@@ -1,5 +1,4 @@
 # Coffee-Shop
-***
 ### Shop bán cà phê gần như đầy đủ các chức năng như: 
 ### Người dùng:
 * Đăng nhập, đăng ký tài khoản, gửi mã code để xác nhận lúc đăng ký và quên mật khẩu
